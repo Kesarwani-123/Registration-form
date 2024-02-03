@@ -1,0 +1,148 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+html {
+    width: 100%;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706486400&semt=ais');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: max-content; /* Set the body height to 100% of the viewport height */
+    margin: 0; /* Remove default body margin */
+    width: 96%;
+}
+
+header {
+    background-color: #0B1249;
+    padding: 10px 0;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #333;
+    width: 104%;
+}
+
+header img {
+    max-height: 40px;
+    margin-left: 25px;
+}
+
+.social-icons {
+    display: flex;
+    margin-right: 25px;
+}
+
+.social-icons a {
+    color: white;
+    margin-left: 10px; /* Corrected the typo in margin property */
+}
+
+.main-content {
+    padding: 50px 0;
+}
+
+.left-content {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.heading {
+    font-family: 'Allura', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white; /* Changed heading color to white */
+    animation-duration: 1.5s;
+   
+}
+
+.subheading {
+    font-family: 'Cursive', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: white; /* Changed paragraph color to white */
+}
+
+.btn-primary {
+    background-color: #0a2746;
+    border-color: #0a2746;
+    color: white; /* Added text color for better visibility */
+}
+
+
+.img-fluid {
+    border-radius: 30px;
+    margin: 0px 7px;
+}
+@media only screen and (max-width: 600px) {
+    .left-content {
+        margin-top: 50px; /* Adjust margin for smaller screens */
+        margin-bottom: 30px; /* Adjust margin for smaller screens */
+    }
+   .row{
+    flex-direction: column-reverse;
+   }
+}
+
+/* form */
+
+
+.registration-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+#image-preview-box {
+    width: 150px;
+    height: 200px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+#image-preview {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.preview-box {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.preview-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+label{
+    color: black;
+    font-weight: bold;
+}

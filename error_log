@@ -1,0 +1,41 @@
+[02-Feb-2024 07:44:23 UTC] PHP Warning:  move_uploaded_file(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:44:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php170UTL' to 'uploads/25022_sunita_photo-751x2048.jpg' in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined index: aadharFrontImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: aadharFrontImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined index: aadharBackImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: aadharBackImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: maritalStatus in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: courseName in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: collegeName in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: lastQualification in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: aadharNumber in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: aadharFrontImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:44:23 UTC] PHP Notice:  Undefined variable: aadharBackImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 108
+[02-Feb-2024 07:48:22 UTC] PHP Warning:  move_uploaded_file(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:48:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcK11wf' to 'uploads/25022_sunita_photo-751x2048.jpg' in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:48:22 UTC] PHP Notice:  Undefined index: aadharFrontImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:48:22 UTC] PHP Notice:  Undefined variable: aadharFrontImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:48:22 UTC] PHP Notice:  Undefined index: aadharBackImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:48:22 UTC] PHP Notice:  Undefined variable: aadharBackImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:48:22 UTC] PHP Warning:  file_get_contents(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 25
+[02-Feb-2024 07:48:24 UTC] PHP Warning:  file_get_contents(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 25
+[02-Feb-2024 07:52:52 UTC] PHP Warning:  move_uploaded_file(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:52:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmGrS1Y' to 'uploads/25022_sunita_photo-751x2048.jpg' in /home/theplwml/public_html/Registration_modeling/send_form.php on line 60
+[02-Feb-2024 07:52:52 UTC] PHP Notice:  Undefined index: aadharFrontImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:52:52 UTC] PHP Notice:  Undefined variable: aadharFrontImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 61
+[02-Feb-2024 07:52:52 UTC] PHP Notice:  Undefined index: aadharBackImage in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:52:52 UTC] PHP Notice:  Undefined variable: aadharBackImagePath in /home/theplwml/public_html/Registration_modeling/send_form.php on line 62
+[02-Feb-2024 07:52:52 UTC] PHP Warning:  file_get_contents(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 25
+[02-Feb-2024 07:52:53 UTC] PHP Warning:  file_get_contents(uploads/25022_sunita_photo-751x2048.jpg): failed to open stream: No such file or directory in /home/theplwml/public_html/Registration_modeling/send_form.php on line 25
+[02-Feb-2024 08:03:02 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:03:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:03:02 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 111
+[02-Feb-2024 08:03:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 111
+[02-Feb-2024 08:09:09 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:09:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:09:09 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 158
+[02-Feb-2024 08:09:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 158
+[02-Feb-2024 08:13:03 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:13:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 51
+[02-Feb-2024 08:13:03 UTC] PHP Notice:  Undefined index: category in /home/theplwml/public_html/Registration_modeling/send_form.php on line 158
+[02-Feb-2024 08:13:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/theplwml/public_html/Registration_modeling/send_form.php on line 158
